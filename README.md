@@ -3,9 +3,9 @@ Task 1 -  Temperature converter in Python
 
 📜 Description
     This is a simple Temperature Converter built using Python Tkinter.
-    The application allows users to easily convert temperatures between Celsius, Fahrenheit, and        Kelvin using a clean, beginner-friendly GUI.
+    The application allows users to easily convert temperatures between Celsius, Fahrenheit, and Kelvin using a clean, beginner-friendly GUI.
 
-✅ GUI version: Built using Python Tkinter to provide a user-friendly interface with dropdown           selection and real-time conversion.
+✅ GUI version: Built using Python Tkinter to provide a user-friendly interface with dropdown selection and real-time conversion.
 
 💻 Languages Used
     Python 3
