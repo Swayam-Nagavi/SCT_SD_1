@@ -19,9 +19,11 @@ Task 1 -  Temperature converter in Python
 
 🖥 How to Run
 1.Clone this repository:
-
+    git clone https://github.com/Swayam-Nagavi/SCT_SD_1.git
+    
 2.Navigate to the project folder:
-    cd temperature-converter
+    cd SCT_SD_1
+    
 3. Run the program:
     python temperature_converter.py
 
