@@ -18,12 +18,12 @@ Task 1 -  Temperature converter in Python
     Error handling for invalid input
 
 🖥 How to Run
-1.Clone this repository:
+1. Clone this repository : 
     git clone https://github.com/Swayam-Nagavi/SCT_SD_1.git
-    
-2.Navigate to the project folder:
+   
+3. Navigate to the project folder : 
     cd SCT_SD_1
-    
-3. Run the program:
+   
+4. Run the program : 
     python temperature_converter.py
 
